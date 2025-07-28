@@ -1,4 +1,4 @@
-# TamilTTS 3h+5h Speech Corpus
+# TamilTTS 5h Speech Corpus
 
 This repository contains the **5-hour segment** of a high-quality **Tamil Text-to-Speech (TTS)** dataset. It complements the earlier 3-hour version.
 
